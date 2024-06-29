@@ -3,161 +3,174 @@
     "loading": "Carregando..."
   },
   "Navigation": {
-    "title": "Visão geral das Ferramentas de IA Open Source Gen24",
-    "discover": "Explorar o Mundo da IA",
-    "submit": "Enviar Ferramenta",
-    "newtools": "Novas Ferramentas de IA",
-    "startup": "Seção de Startups",
-    "menu": "Menu de Navegação"
+    "title": "Visão geral de ferramentas de IA Gen24 de código aberto",
+    "discover": "Explorar o mundo da IA",
+    "submit": "Enviar sua ferramenta",
+    "newtools": "Ferramentas de IA mais recentes",
+    "startup": "Seção de startups",
+    "menu": "Menu de navegação"
   },
   "Footer": {
-    "title": "Visão geral das Ferramentas de IA Open Source Gen24",
-    "subTitle": "Descubra as melhores ferramentas de IA de 2024 - Bem-vindo à Visão Geral das Ferramentas de IA Gen24!",
-    "support": "Suporte Técnico",
-    "gen24": "Plataforma de IA Gen24",
-    "privacy": "Política de Privacidade",
-    "termsConditions": "Termos e Condições",
-    "contactUs": "Contato"
+    "title": "Visão geral de ferramentas de IA Gen24 de código aberto",
+    "subTitle": "Explore as melhores ferramentas de IA de 2024 - Tudo em Gen24 Ferramentas de IA!",
+    "support": "Suporte técnico",
+    "gen24": "Plataforma Gen24 AI",
+    "privacy": "Política de privacidade",
+    "termsConditions": "Termos e condições",
+    "contactUs": "Contate-nos"
   },
   "Faq": {
-    "title": "Perguntas Frequentes",
+    "title": "Perguntas frequentes",
     "1": {
-      "question": "O que é a Visão Geral das Ferramentas de IA Gen24?",
-      "answer": "A Visão Geral das Ferramentas de IA Gen24 foi criada para ajudá-lo a descobrir e utilizar suas ferramentas de IA favoritas. Aqui, você encontrará uma biblioteca abrangente de ferramentas de IA em diversas áreas, incluindo redação, marketing, reescrita de conteúdo, otimização de SEO, apoio ao estudo, design genético, pesquisa, criação artística, música, processamento de vídeo, programação e manipulação de imagens."
+      "question": "O que é a visão geral de ferramentas de IA Gen24?",
+      "answer": "A visão geral de ferramentas de IA Gen24 está construindo uma biblioteca abrangente de ferramentas de IA para ajudá-lo a descobrir e usar as ferramentas de IA que você ama. Aqui, você pode encontrar ferramentas de IA abrangendo escrita de IA, marketing, reescrita de conteúdo, otimização de SEO, auxílio de aprendizado, design generativo, pesquisa, criação artística, música, processamento de vídeo, programação e processamento de imagens."
     },
     "2": {
-      "question": "Como encontrar as ferramentas de IA necessárias na Visão Geral das Ferramentas de IA Gen24?",
-      "answer-1": "1. Visite o site Gen24.com",
+      "question": "Como encontrar as ferramentas de IA necessárias na visão geral de ferramentas de IA Gen24?",
+      "answer-1": "1. Acesse o site Gen24.com",
       "answer-2": "2. Navegue pela lista de ferramentas de IA",
-      "answer-3": "3. Clique na ferramenta de IA de interesse para obter mais detalhes e começar a usar"
+      "answer-3": "3. Clique na ferramenta de IA que lhe interessa para saber mais e acessar"
     },
     "3": {
-      "question": "Quais são os recursos especiais da Visão Geral das Ferramentas de IA Gen24?",
-      "answer-1": "1. Lista abrangente de ferramentas de IA: Explore suas ferramentas de IA favoritas gratuitamente",
-      "answer-2": "2. Seção de exposição de startups: Plataforma de exposição gratuita para desenvolvedores de ferramentas de IA"
+      "question": "Quais são as características especiais da visão geral de ferramentas de IA Gen24?",
+      "answer-1": "1. Lista abrangente de ferramentas de IA: explore gratuitamente suas ferramentas de IA favoritas",
+      "answer-2": "2. Seção de startups: plataforma de exibição gratuita para desenvolvedores de ferramentas de IA"
     },
     "4": {
-      "question": "Há algum custo para enviar uma ferramenta de IA?",
-      "answer": "É completamente gratuito. No entanto, recomendamos que compartilhe o link da Visão Geral das Ferramentas de IA Gen24 em seu website! Isso ajudará a aumentar sua visibilidade."
+      "question": "É necessário pagar para enviar uma ferramenta de IA na visão geral de ferramentas de IA Gen24?",
+      "answer": "Totalmente gratuito. No entanto, recomendamos que você compartilhe o link da visão geral de ferramentas de IA Gen24 ao enviar seus materiais para aumentar a exposição!"
     },
     "5": {
-      "question": "Que tipos de ferramentas de IA a Visão Geral das Ferramentas de IA Gen24 suporta?",
-      "answer": "Pretendemos suportar todos os tipos de ferramentas de IA. Aguarde novidades."
+      "question": "Quais tipos de ferramentas de IA a visão geral de ferramentas de IA Gen24 suporta?",
+      "answer": "Estamos prestes a apoiar uma ampla gama de ferramentas de IA. Detalhes em breve."
     },
     "6": {
-      "question": "Com que frequência a Visão Geral das Ferramentas de IA Gen24 é atualizada?",
-      "answer": "A lista de ferramentas de IA é atualizada diariamente."
+      "question": "Com que frequência a visão geral de ferramentas de IA Gen24 é atualizada?",
+      "answer": "Nossa lista de ferramentas de IA é atualizada diariamente."
     },
     "7": {
-      "question": "A Visão Geral das Ferramentas de IA Gen24 suporta ferramentas como GPT-4o ou Sora AI?",
-      "answer": "Ferramentas como GPT-4o ou Sora AI podem ser encontradas aqui, e você pode acessar seus sites oficiais através de nossas descrições."
+      "question": "Esta seção suporta ferramentas como GPT-4o ou Sora AI?",
+      "answer": "Você pode encontrar ferramentas como GPT-4o ou Sora AI aqui e acessar seus sites oficiais diretamente através de nossa apresentação."
     },
     "8": {
-      "question": "O que fazer se ocorrer uma falha funcional?",
-      "answer": "Se o conteúdo não for exibido corretamente, tente mudar o navegador ou limpar o cache. Se o problema persistir, entre em contato através de contact@6677.ai."
+      "question": "O que fazer se houver problemas?",
+      "answer": "Se o conteúdo não for exibido corretamente, tente trocar o navegador ou limpar o cache. Se ainda houver problemas, sinta-se à vontade para entrar em contato conosco pelo contact@6677.ai."
     },
     "9": {
-      "question": "Como é gerado o conteúdo da Visão Geral das Ferramentas de IA Gen24?",
-      "answer": "As descrições das ferramentas de IA na plataforma são geradas automaticamente pelo GPT-4o da OpenAI."
+      "question": "Como o conteúdo da visão geral de ferramentas de IA Gen24 é gerado?",
+      "answer": "As descrições de ferramentas de IA nesta plataforma são geradas automaticamente pelo GPT-4o da OpenAI."
     },
     "10": {
-      "question": "Sobre a permissão de uso das ferramentas de IA",
-      "answer": "A Visão Geral das Ferramentas de IA Gen24 fornece apenas serviços de diretório de ferramentas de IA. As permissões específicas de uso são gerenciadas pelos sites oficiais de cada ferramenta de IA."
+      "question": "Sobre o uso das ferramentas de IA?",
+      "answer": "A visão geral de ferramentas de IA Gen24 fornece apenas serviços de diretório de ferramentas de IA. O uso específico das ferramentas de IA é regido pelas regulamentações dos sites oficiais das ferramentas."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Política de Privacidade da Visão Geral das Ferramentas de IA Gen24",
-      "1-p": "Esta página destina-se a informar os usuários sobre nossas políticas de coleta, uso e divulgação de informações pessoais. Ao optar por utilizar a Visão Geral das Ferramentas de IA Gen24, você concorda com a coleta e uso de informações de acordo com esta política. As informações coletadas são utilizadas para melhorar o serviço e não serão usadas ou compartilhadas para outros fins.",
+      "1-h1": "Política de privacidade detalhada da visão geral de ferramentas de IA Gen24",
+      "1-p": "Esta página tem como objetivo informar claramente nossos usuários sobre nossa política de coleta, uso e divulgação de informações pessoais. Ao usar a visão geral de ferramentas de IA Gen24, você concorda em seguir esta política de privacidade para o processamento de suas informações. Nós nos comprometemos a usar as informações pessoais coletadas apenas para melhorar a experiência do serviço. A menos que seja especificado de outra forma, suas informações serão mantidas confidenciais.",
       "2-h2": "Coleta e uso de informações",
-      "2-p": "Para uma melhor experiência de uso, podemos solicitar que você nos forneça certas informações de identificação pessoal. As informações solicitadas serão armazenadas no seu dispositivo e não serão coletadas diretamente por nós. As informações coletadas por serviços de terceiros podem ser usadas para identificar você.",
-      "3-h2": "Coleta de dados de registro",
-      "3-p": "Sempre que você utiliza nossos serviços, em caso de erro no aplicativo, coletamos dados e informações (através de produtos de terceiros) no seu dispositivo chamados “dados de registro”. Estes dados de registro podem incluir informações como endereço de IP do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar nosso serviço, a hora e a data de uso do serviço, entre outras estatísticas.",
-      "4-h2": "Sobre os Cookies",
-      "4-p": "Cookies são arquivos com uma pequena quantidade de dados, que são comumente utilizados como identificadores anônimos. Estes são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo. Este serviço não utiliza explicitamente cookies. No entanto, o aplicativo pode usar código de terceiros e bibliotecas que usam cookies para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, pode não ser capaz de usar algumas partes deste serviço.",
-      "5-h2": "Fornecedores de serviços",
-      "5-p-1": "Podemos empregar empresas e indivíduos terceirizados pelos seguintes motivos:",
-      "5-li-1": "Para facilitar nosso serviço;",
-      "5-li-2": "Para fornecer o serviço em nosso nome;",
-      "5-li-3": "Para executar serviços relacionados com o serviço;",
-      "5-li-4": "Para nos ajudar a analisar como nosso serviço é utilizado.",
-      "5-p-2": "Queremos informar aos usuários deste serviço que esses terceiros têm acesso às suas informações pessoais. O motivo é executar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.",
-      "6-h2": "Segurança dos dados",
-      "6-p": "Valorizamos sua confiança em nos fornecer suas informações pessoais, assim estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir segurança absoluta.",
-      "7-h2": "Links para outros sites",
-      "7-p": "Este serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Note que esses sites externos não são operados por nós. Portanto, aconselhamos fortemente a rever a política de privacidade desses websites. Não temos controle e não assumimos nenhuma responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.",
-      "8-h2": "Mudanças nesta Política de Privacidade",
-      "8-p": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que reveja esta página periodicamente para quaisquer mudanças. Notificaremos você de quaisquer mudanças publicando a nova Política de Privacidade nesta página. Estas mudanças são efetivas imediatamente, após serem postadas nesta página."
+      "2-p": "Para melhorar continuamente a qualidade do serviço, podemos precisar que você forneça informações específicas de identificação pessoal. As informações solicitadas serão armazenadas apenas em seu dispositivo e não serão coletadas diretamente por nós. Os serviços de terceiros envolvidos em nosso serviço podem coletar informações para identificação de identidade.",
+      "3-h2": "Coleta de dados de log",
+      "3-p": "Por favor, entenda que sempre que você usar nossos serviços, como em caso de erros de programa, podemos coletar informações do dispositivo por meio de produtos de terceiros, incluindo, mas não se limitando a, endereço IP do dispositivo, modelo, versão do sistema operacional, etc., bem como o tempo exato de uso deste serviço.",
+      "4-h2": "Sobre cookies",
+      "4-p": "Cookies são uma função comum de sites usada para armazenar preferências do usuário. Nosso serviço não usa cookies diretamente, mas pode coletar informações por meio de componentes de terceiros. Os usuários podem optar por aceitar ou recusar cookies de acordo com suas preferências pessoais, mas observe que recusar cookies pode afetar algumas funções do serviço.",
+      "5-h2": "Fornecedores de serviços de cooperação",
+      "5-p-1": "Para garantir o funcionamento suave dos serviços, podemos contratar empresas ou indivíduos de terceiros para realizar as seguintes tarefas:",
+      "5-li-1": "Auxiliar na prestação de serviços",
+      "5-li-2": "Executar tarefas como parte do serviço",
+      "5-li-3": "Análise de desempenho do serviço",
+      "5-p-2": "Essas terceiras partes podem precisar acessar suas informações pessoais para realizar seu trabalho. No entanto, eles são obrigados a usar essas informações apenas para executar as tarefas que lhes foram confiadas e devem manter a confidencialidade.",
+      "6-h2": "Compromisso com a segurança dos dados",
+      "6-p": "Sabemos o quanto você valoriza a segurança de suas informações pessoais, portanto, nos comprometemos a tomar todas as medidas razoáveis para proteger suas informações de segurança. No entanto, é necessário lembrar que não existe uma maneira absolutamente segura de transmitir informações pela internet.",
+      "7-h2": "Links para sites de terceiros",
+      "7-p": "Nosso serviço pode conter links para sites de terceiros. Ao clicar nesses links, você será direcionado para sites externos, cuja política de privacidade não tem relação com a nossa. Recomendamos que você consulte a política de privacidade desses sites."
     },
     "termsConditions": {
-      "1-h1": "Termos de Uso da Visão Geral das Ferramentas de IA Gen24",
-      "1-p": "Obrigado por usar a Visão Geral das Ferramentas de IA Gen24. Ao utilizar nossos serviços, você concorda com os termos listados abaixo, portanto, leia-os com atenção.",
-      "2-h2": "Conteúdo do serviço",
-      "2-p": "A Visão Geral das Ferramentas de IA Gen24 oferece um serviço de diretório de ferramentas de IA, ajudando os usuários a descobrir e utilizar diversas ferramentas de IA. Estamos constantemente aprimorando nossas ofertas e reservamos o direito de adicionar, modificar ou remover funcionalidades do serviço.",
-      "3-h2": "Condições de uso",
-      "3-p": "Ao usar a Visão Geral das Ferramentas de IA Gen24, você concorda em não:",
-      "3-li-1": "Usar o serviço de forma fraudulenta;",
-      "3-li-2": "Infringir a privacidade de outros usuários;",
-      "3-li-3": "Interferir no funcionamento adequado do serviço;",
-      "4-h2": "Direitos autorais",
-      "4-p": "O conteúdo fornecido neste serviço é protegido por leis de direitos autorais. Você não pode copiar, distribuir ou usar o conteúdo sem autorização prévia.",
-      "5-h2": "Limitação de responsabilidade",
-      "5-p": "A Visão Geral das Ferramentas de IA Gen24 não se responsabiliza por quaisquer danos resultantes do uso dos serviços. O serviço é fornecido 'como está' e sem garantias expressas ou implícitas.",
-      "6-h2": "Alterações nos Termos de Uso",
-      "6-p": "Podemos modificar estes Termos de Uso a qualquer momento. As mudanças serão publicadas nesta página e recomendamos que você reveja os Termos periodicamente. Continuar a utilizar o serviço após as modificações indica a sua aceitação dos novos termos.",
+      "1-h1": "Termos de uso da visão geral de ferramentas de IA Gen24",
+      "1-p": "Obrigado por visitar a visão geral de ferramentas de IA Gen24! Nossa plataforma (localizada em https://gen24.com) tem como objetivo fornecer um diretório abrangente de ferramentas de IA. Acessar ou usar nosso site significa que você concorda em seguir esses termos de serviço. Se você não concordar, não use este site.",
+      "2-h2": "Autorização de uso",
+      "2-p": "Nós concedemos a você uma autorização limitada, não exclusiva e intransferível para acessar e usar nosso site e seus serviços apenas para fins pessoais e não comerciais. Sem nossa autorização por escrito, você não tem o direito de copiar, modificar ou usar o conteúdo do site de qualquer forma comercial.",
+      "3-h2": "Propriedade do conteúdo",
+      "3-p": "As imagens criadas neste site são de propriedade do criador. A Gen24.com não reivindica qualquer propriedade sobre o conteúdo gerado pelo usuário.",
+      "4-h2": "Política de dados do usuário",
+      "4-p": "Coletamos dados pessoais (incluindo nome, endereço de e-mail e informações de pagamento) e dados não pessoais (como cookies do site) para otimizar a experiência do serviço. O uso de todos os dados está de acordo com esta política de privacidade.",
+      "5-h2": "Lei aplicável",
+      "5-p": "Estes termos serão interpretados e executados de acordo com a lei dos Estados Unidos, sem considerar os princípios de conflito de leis.",
+      "6-h2": "Alteração dos termos",
+      "6-p": "Reservamo-nos o direito de modificar ou substituir estes termos a qualquer momento e notificaremos você sobre quaisquer alterações importantes por e-mail. Continuar usando o site significa que você aceita essas alterações.",
       "7-h2": "Contato",
-      "7-p": "Se você tiver qualquer pergunta sobre estes Termos de Uso, por favor, entre em contato conosco através do email contact@Gen24.com."
+      "7-p": "Se você tiver alguma dúvida sobre os termos, entre em contato conosco pelo contact@Gen24.ai.",
+      "last-p": "Ao usar a visão geral de ferramentas de IA Gen24, você concorda com todos os termos de serviço acima."
+    }
+  },
+  "NotFound": {
+    "title": "Página 404 não encontrada",
+    "goHome": "Voltar para a página inicial"
+  },
+  "Home": {
+    "title": "Gen24 AI - Descubra as melhores ferramentas de IA de 2024",
+    "subTitle": "Descubra e obtenha as ferramentas de IA de que precisa na visão geral de ferramentas de IA Gen24. O diretório de ferramentas de IA é atualizado diariamente pelo GPT-4o, envie gratuitamente agora e promova seu SEO.",
+    "ai-navigate": "Navegação de ferramentas de IA",
+    "exploreMore": "Descubra mais ferramentas de IA selecionadas",
+    "checkDetail": "Ver detalhes",
+    "search": "Pesquisa rápida",
+    "result": "Exibição de resultados de pesquisa",
+    "empty": "Dados vazios"
+  },
+  "Category": {
+    "home": "Página inicial",
+    "empty": "Dados vazios"
+  },
+  "Submit": {
+    "title": "Compartilhe sua ferramenta de IA inovadora",
+    "subTitle": "Adicione sua ferramenta de IA ao diretório Gen24 AI e atraia mais tráfego-alvo",
+    "website": "Nome do site",
+    "url": "Seu link de site",
+    "submit": "Enviar agora",
+    "add": "Adicionar agora",
+    "text": "Adicione um link para o diretório Gen24 AI em sua página inicial do site e, após concluir esta etapa simples, você poderá enviar sua ferramenta de IA gratuitamente!",
+    "networkError": "Erro de rede",
+    "success": "Envio bem-sucedido"
+  },
+  "Startup": {
+    "title": "Inicie sua jornada empreendedora",
+    "subTitle": "Descubra e promova seu site de startup na lista definitiva de navegação. Para se juntar a esta lista ou enviar seu produto para o diretório gratuito, entre em contato conosco pelo contact@Gen24.com.",
+    "updateTime": "Nosso compromisso é planejar e atualizar o conteúdo diariamente. A última atualização foi feita em:",
+    "table": {
+      "da": "Autoridade do domínio",
+      "website": "Nome do site",
+      "tags": "Palavras-chave",
+      "price": "Preço",
+      "submission": "Como enviar"
     },
-    "Submit": {
-      "title": "Compartilhe Sua Ferramenta Inovadora de IA",
-      "subTitle": "Adicione sua ferramenta de IA à Visão Geral das Ferramentas de IA Gen24 e aumente o tráfego direcionado ao seu site.",
-      "website": "Nome do Site",
-      "url": "Link do seu site",
-      "submit": "Enviar agora",
-      "add": "Adicionar agora",
-      "text": "Submeta sua ferramenta de IA gratuitamente ao linkar a Visão Geral das Ferramentas de IA Gen24 na sua página inicial!",
-      "networkError": "Erro de conexão com a rede",
-      "success": "Enviado com sucesso"
+    "detail": {
+      "visitWebsite": "Clique para visitar",
+      "introduction": "Introdução do site"
+    }
+  },
+  "Explore": {
+    "title": "Explore as melhores ferramentas de IA de 2024",
+    "subTitle": "Na visão geral de ferramentas de IA Gen24, explore suas ferramentas de IA favoritas. A lista de ferramentas de IA é atualizada diariamente pelo GPT-4o."
+  },
+  "Metadata": {
+    "home": {
+      "title": "Explore a coleção de ferramentas de IA de ponta | Gen24 AI",
+      "description": "Nunca foi tão fácil explorar e usar ferramentas de IA de ponta. A Gen24 AI reúne uma ampla gama de ferramentas de IA gratuitas, com o objetivo de fornecer serviços incomparáveis.",
+      "keywords": "Ferramentas de IA, Ferramentas de IA gratuitas, Tecnologia de IA, Diretório Gen24 AI"
     },
-    "Startup": {
-      "title": "Inicie Sua Jornada de Startup",
-      "subTitle": "Descubra e promova seu site startup com as melhores orientações. Para ser listado ou sugerir um produto gratuitamente no catálogo, entre em contato através do email contact@Gen24.com.",
-      "updateTime": "Prometemos compilar e atualizar o conteúdo diariamente. Última atualização:",
-      "table": {
-        "da": "Autoridade do Domínio",
-        "website": "Nome do Site",
-        "tags": "Tags",
-        "price": "Preço",
-        "submission": "Método de Envio"
-      },
-      "detail": {
-        "visitWebsite": "Clique para Visitar",
-        "introduction": "Introdução ao Site"
-      }
+    "ai": {
+      "titleSubfix": " | Coleção de excelência em tecnologia de IA"
     },
-    "Explore": {
-      "title": "Descubra as Ferramentas de IA mais Top de 2024",
-      "subTitle": "Encontre suas ferramentas de IA favoritas na Visão Geral das Ferramentas de IA Gen24. A lista de ferramentas de IA é atualizada diariamente por GPT-4o."
+    "explore": {
+      "title": "Descubra as melhores ferramentas de IA de 2024 | Gen24 AI Index",
+      "titlePrefix": "Explore Gen24 AI",
+      "titleSuffix": " | Coleção de ferramentas de IA",
+      "description": "Descubra e utilize as melhores ferramentas de IA de 2024. A Gen24 AI Index reúne uma variedade de ferramentas de IA, dedicada a fornecer a você uma experiência de serviço excepcional e soluções tecnológicas avançadas.",
+      "keywords": "Ferramentas de IA, Exploração de IA, Ferramentas de IA de 2024, Diretório Gen24 AI"
     },
-    "Metadata": {
-      "home": {
-        "title": "Descubra as Melhores Ferramentas de IA | Diretório de Ferramentas de IA Gen24",
-        "description": "Explorar e usar as melhores ferramentas de IA nunca foi tão fácil. O Diretório de Ferramentas de IA Gen24 oferece uma variedade de ferramentas de IA gratuitas, reunidas em um único lugar para proporcionar a melhor experiência ao usuário.",
-        "keywords": "Ferramentas de IA, Ferramentas de IA gratuitas, Tecnologia de IA, Diretório de Ferramentas de IA Gen24"
-      },
-      "ai": {
-        "titleSubfix": " | Coleção das Melhores Ferramentas Tecnológicas de IA"
-      },
-      "explore": {
-        "title": "Explorar as Ferramentas Selecionadas de IA de 2024 | Índice de IA Gen24",
-        "titlePrefix": "Explorar IA Gen24",
-        "titleSuffix": " | Coleção Profissional de Ferramentas de IA",
-        "description": "Explore e utilize as melhores tecnologias de IA de 2024. O Índice de IA Gen24 lista várias ferramentas de IA, oferecendo a melhor experiência de serviço e soluções tecnológicas de ponta.",
-        "keywords": "Ferramentas de IA, Exploração de Tecnologias de IA, Ferramentas de IA em 2024, Diretório de IA Gen24"
-      },
-      "submit": {
-        "title": "Compartilhe sua Inovação em IA e Seja Notado | Diretório de IA Gen24"
-      }
+    "submit": {
+      "title": "Compartilhe sua inovação de IA e amplie sua influência | Gen24 AI"
     }
   }
 }

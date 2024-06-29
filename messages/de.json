@@ -1,163 +1,178 @@
 {
   "Common": {
-    "loading": "Lädt..."
+    "loading": "Wird geladen..."
   },
   "Navigation": {
-    "title": "Gen24 Open Source KI-Tool-Übersicht",
-    "discover": "Entdecken Sie die Welt der KI",
-    "submit": "Tool einreichen",
-    "newtools": "Neue KI-Tools",
-    "startup": "Startup-Sektion",
+    "title": "Übersicht über Open-Source Gen24 AI Tools",
+    "discover": "Entdecke die Welt der KI",
+    "submit": "Dein Tool einreichen",
+    "newtools": "Neueste AI Tools",
+    "startup": "Startups-Bereich",
     "menu": "Navigationsmenü"
   },
   "Footer": {
-    "title": "Gen24 Open Source KI-Tool-Übersicht",
-    "subTitle": "Entdecken Sie die besten KI-Tools von 2024 - Willkommen bei der Gen24 KI-Tool-Übersicht!",
-    "support": "Technischer Support",
-    "gen24": "Gen24 KI-Plattform",
-    "privacy": "Datenschutzrichtlinie",
+    "title": "Übersicht über Open-Source Gen24 AI Tools",
+    "subTitle": "Entdecke die Spitzen-AI Tools von 2024 - Alles in der Gen24 AI Tools Übersicht!",
+    "support": "Technische Unterstützung",
+    "gen24": "Gen24 AI Plattform",
+    "privacy": "Datenschutz",
     "termsConditions": "Nutzungsbedingungen",
-    "contactUs": "Kontakt"
+    "contactUs": "Kontaktiere uns"
   },
   "Faq": {
     "title": "Häufig gestellte Fragen",
     "1": {
-      "question": "Was ist die Gen24 KI-Tool-Übersicht?",
-      "answer": "Die Gen24 KI-Tool-Übersicht wurde entwickelt, um Ihnen zu helfen, Ihre bevorzugten KI-Tools zu entdecken und zu nutzen. Hier finden Sie eine umfassende Bibliothek von KI-Tools in verschiedenen Bereichen, einschließlich Schreiben, Marketing, Inhaltsumschreibung, SEO-Optimierung, Studienunterstützung, genetischem Design, Forschung, künstlerischem Schaffen, Musik, Videobearbeitung, Programmierung und Bildbearbeitung."
+      "question": "Was ist die Gen24 AI Tools Übersicht?",
+      "answer": "Die Gen24 AI Tools Übersicht - Wir bauen eine umfassende Bibliothek von AI Tools auf, um Ihnen bei der Entdeckung und Nutzung Ihrer Lieblings-AI Tools zu helfen. Hier finden Sie AI Tools für Schreiben, Marketing, Content-Neuschreiben, SEO-Optimierung, Lernunterstützung, generative Design, Forschung, Kunst, Musik, Video-Verarbeitung, Programmierung und Bildbearbeitung."
     },
     "2": {
-      "question": "Wie finde ich die benötigten KI-Tools in der Gen24 KI-Tool-Übersicht?",
-      "answer-1": "1. Besuchen Sie die Website Gen24.com",
-      "answer-2": "2. Durchsuchen Sie die Liste der KI-Tools",
-      "answer-3": "3. Klicken Sie auf das gewünschte KI-Tool, um weitere Details zu erhalten und es zu nutzen"
+      "question": "Wie finde ich die benötigten AI Tools in der Gen24 AI Tools Übersicht?",
+      "answer-1": "1. Besuche die Website Gen24.com",
+      "answer-2": "2. Blättere durch die Liste der AI Tools",
+      "answer-3": "3. Klicke auf das interessante AI Tool, um mehr zu erfahren und darauf zuzugreifen"
     },
     "3": {
-      "question": "Welche besonderen Funktionen bietet die Gen24 KI-Tool-Übersicht?",
-      "answer-1": "1. Umfassende Liste von KI-Tools: Entdecken Sie Ihre bevorzugten KI-Tools kostenlos",
-      "answer-2": "2. Startup-Expositionsbereich: Ein kostenlose Plattform für Entwickler von KI-Tools"
+      "question": "Welche besonderen Funktionen bietet die Gen24 AI Tools Übersicht?",
+      "answer-1": "1. Vollständige Liste der AI Tools: Freie Entdeckung Ihrer Lieblings-AI Tools",
+      "answer-2": "2. Startups-Bereich: Ein kostenloser Ausstellungsplatz für AI Tool Entwickler"
     },
     "4": {
-      "question": "Kostet es etwas, ein KI-Tool einzureichen?",
-      "answer": "Es ist völlig kostenlos. Wir empfehlen jedoch, den Link zur Gen24 KI-Tool-Übersicht auf Ihrer Website zu teilen! Dies wird dazu beitragen, Ihre Sichtbarkeit zu erhöhen."
+      "question": "Muss ich etwas bezahlen, um ein AI Tool in der Gen24 AI Tools Übersicht hochzuladen?",
+      "answer": "Völlig kostenlos. Wir empfehlen jedoch, beim Hochladen Ihrer Tools den Link zur Gen24 AI Tools Übersicht zu teilen, um die Sichtbarkeit zu erhöhen!"
     },
     "5": {
-      "question": "Welche Arten von KI-Tools werden in der Gen24 KI-Tool-Übersicht unterstützt?",
-      "answer": "Wir beabsichtigen, alle Arten von KI-Tools zu unterstützen. Bleiben Sie auf dem Laufenden."
+      "question": "Welche Arten von AI Tools unterstützt die Gen24 AI Tools Übersicht?",
+      "answer": "Wir werden bald alle Arten von AI Tools unterstützen. Weitere Details folgen bald."
     },
     "6": {
-      "question": "Wie oft wird die Gen24 KI-Tool-Übersicht aktualisiert?",
-      "answer": "Die Liste der KI-Tools wird täglich aktualisiert."
+      "question": "Wie oft wird die Gen24 AI Tools Übersicht aktualisiert?",
+      "answer": "Unsere Liste der AI Tools wird täglich aktualisiert."
     },
     "7": {
-      "question": "Unterstützt die Gen24 KI-Tool-Übersicht Tools wie GPT-4o oder Sora AI?",
-      "answer": "Tools wie GPT-4o oder Sora AI können hier gefunden werden, und Sie können deren offizielle Websites über unsere Beschreibungen aufrufen."
+      "question": "Unterstützt die Gen24 AI Tools Übersicht Tools wie GPT-4o oder Sora AI?",
+      "answer": "Sie können Tools wie GPT-4o oder Sora AI hier finden und direkt über unsere Einführung auf deren offizielle Websites zugreifen."
     },
     "8": {
-      "question": "Was tun, wenn ein Funktionsfehler auftritt?",
-      "answer": "Wenn der Inhalt nicht korrekt angezeigt wird, versuchen Sie, den Browser zu wechseln oder den Cache zu löschen. Wenn das Problem weiterhin besteht, wenden Sie sich an: contact@6677.ai."
+      "question": "Was soll ich tun, wenn ich einen Fehler erlebe?",
+      "answer": "Wenn Inhalte nicht richtig angezeigt werden, versuchen Sie bitte, einen anderen Browser zu verwenden oder den Cache zu leeren. Wenn das Problem weiterhin besteht, freuen wir uns über eine Kontaktaufnahme unter contact@6677.ai."
     },
     "9": {
-      "question": "Wie wird der Inhalt der Gen24 KI-Tool-Übersicht erstellt?",
-      "answer": "Die Beschreibungen der KI-Tools auf der Plattform werden automatisch vom GPT-4o von OpenAI generiert."
+      "question": "Wie werden die Inhalte der Gen24 AI Tools Übersicht generiert?",
+      "answer": "Die Beschreibungen der AI Tools auf dieser Plattform werden von OpenAI's GPT-4o automatisch generiert."
     },
     "10": {
-      "question": "Über die Nutzungserlaubnis von KI-Tools",
-      "answer": "Die Gen24 KI-Tool-Übersicht bietet nur Verzeichnisdienste für KI-Tools. Die spezifischen Nutzungsberechtigungen werden von den offiziellen Websites der einzelnen KI-Tools verwaltet."
+      "question": "Was ist mit den Nutzungsrechten der AI Tools?",
+      "answer": "Die Gen24 AI Tools Übersicht bietet lediglich einen Katalogdienst für AI Tools. Die konkreten Nutzungsrechte richten sich nach den Bestimmungen der jeweiligen AI Tools-Websites."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Datenschutzrichtlinie der Gen24 KI-Tool-Übersicht",
-      "1-p": "Diese Seite dient dazu, Benutzer über unsere Richtlinien zur Sammlung, Nutzung und Weitergabe persönlicher Informationen zu informieren. Wenn Sie sich entscheiden, die Gen24 KI-Tool-Übersicht zu nutzen, stimmen Sie der Sammlung und Nutzung von Informationen gemäß dieser Richtlinie zu. Die gesammelten Informationen werden zur Verbesserung des Dienstes verwendet und nicht für andere Zwecke verwendet oder geteilt.",
-      "2-h2": "Sammlung und Nutzung von Informationen",
-      "2-p": "Für eine bessere Nutzungserfahrung können wir Sie bitten, uns bestimmte persönlich identifizierbare Informationen zur Verfügung zu stellen. Die angeforderten Informationen werden auf Ihrem Gerät gespeichert und nicht direkt von uns gesammelt. Die von Drittanbietern gesammelten Informationen können dazu verwendet werden, Sie zu identifizieren.",
-      "3-h2": "Protokolldaten sammeln",
-      "3-p": "Wann immer Sie unsere Dienste nutzen, sammeln wir im Falle eines Fehlers im Service Daten und Informationen (über Drittprodukte) auf Ihrem Gerät, die als 'Protokolldaten' bezeichnet werden. Diese Protokolldaten können Informationen wie die IP-Adresse Ihres Geräts, den Gerätenamen, die Version des Betriebssystems, die Konfiguration der App bei der Nutzung unseres Dienstes, Datum und Uhrzeit der Dienstenutzung und andere Statistiken enthalten.",
+      "1-h1": "Gen24 AI Tools Index Datenschutzrichtlinie",
+      "1-p": "Diese Seite soll klar und deutlich über unsere Politik zur Sammlung, Nutzung und Offenlegung von personenbezogenen Informationen informieren. Durch die Nutzung der Gen24 AI Tools Index stimmen Sie zu, dass Ihre Informationen gemäß dieser Datenschutzrichtlinie verarbeitet werden. Wir versprechen, dass die gesammelten personenbezogenen Informationen ausschließlich zur Verbesserung der Dienstleistung verwendet werden. Es sei denn, wir geben etwas anderes an, werden Ihre Informationen vertraulich behandelt.",
+      "2-h2": "Datensammlung und Anwendung",
+      "2-p": "Um die Dienstleistungsqualität stetig zu verbessern, benötigen wir möglicherweise Ihre Angabe bestimmter personenbezogener Daten. Die angeforderten Informationen werden ausschließlich auf Ihrem Gerät gespeichert und nicht direkt von uns gesammelt. Die in unseren Diensten enthaltenen Drittanbieter können Informationen zur Identifizierung sammeln.",
+      "3-h2": "Protokolldaten-Sammlung",
+      "3-p": "Bitte beachten Sie, dass wir bei jedem Aufruf unserer Dienste, z.B. bei Programmfehlern, über Drittanbieterprodukte Informationen von Ihrem Gerät sammeln können, einschließlich, aber nicht beschränkt auf, IP-Adresse des Geräts, Modell, Betriebssystemversion usw., sowie die genaue Zeit der Nutzung dieses Dienstes.",
       "4-h2": "Über Cookies",
-      "4-p": "Cookies sind Dateien mit einer kleinen Menge an Daten, die häufig als anonyme eindeutige Kennungen verwendet werden. Diese werden von den von Ihnen besuchten Websites an Ihren Browser gesendet und im internen Speicher Ihres Geräts gespeichert. Dieser Dienst verwendet keine ausdrücklich Cookies. Die App kann jedoch Drittanbietercode und Bibliotheken verwenden, die Cookies verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese Cookies zu akzeptieren oder abzulehnen und zu wissen, wann ein Cookie an Ihr Gerät gesendet wird. Wenn Sie unsere Cookies ablehnen, können Sie möglicherweise bestimmte Teile dieses Dienstes nicht nutzen.",
-      "5-h2": "Dienstleister",
-      "5-p-1": "Wir können Drittunternehmen und Einzelpersonen aus folgenden Gründen beschäftigen:",
-      "5-li-1": "Um unseren Dienst zu erleichtern;",
-      "5-li-2": "Den Dienst in unserem Namen bereitzustellen;",
-      "5-li-3": "Dienstbezogene Dienstleistungen durchzuführen;",
-      "5-li-4": "Um uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.",
-      "5-p-2": "Wir möchten Benutzer dieses Dienstes darüber informieren, dass diese Drittanbieter Zugriff auf ihre persönlichen Informationen haben. Der Grund ist, dass sie die ihnen zugedachten Aufgaben in unserem Namen ausführen. Sie sind jedoch verpflichtet, die Informationen nicht offenzulegen oder für andere Zwecke zu verwenden.",
-      "6-h2": "Datensicherheit",
-      "6-p": "Wir schätzen Ihr Vertrauen, uns Ihre persönlichen Informationen zur Verfügung zu stellen, daher setzen wir uns dafür ein, kommerziell akzeptable Mittel zu deren Schutz einzusetzen. Denken Sie jedoch daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100% sicher und zuverlässig ist, und wir können keine absolute Sicherheit garantieren.",
-      "7-h2": "Links zu anderen Seiten",
-      "7-p": "Dieser Dienst kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von uns betrieben werden. Daher empfehlen wir Ihnen dringend, die Datenschutzerklärung dieser Websites zu überprüfen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter.",
-      "8-h2": "Änderungen dieser Datenschutzerklärung",
-      "8-p": "Wir können unsere Datenschutzerklärung von Zeit zu Zeit aktualisieren. Daher wird geraten, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzerklärung auf dieser Seite veröffentlichen. Diese Änderungen treten sofort nach ihrer Veröffentlichung auf dieser Seite in Kraft."
+      "4-p": "Cookies sind eine gängige Website-Funktion, die verwendet wird, um Benutzerpräferenzen zu speichern. Unsere Dienste verwenden Cookies nicht direkt, aber können über Drittanbieterkomponenten Informationen sammeln. Benutzer können je nach persönlichen Präferenzen Cookies akzeptieren oder ablehnen, aber bitte beachten Sie, dass die Ablehnung von Cookies möglicherweise die Funktionen bestimmter Dienste beeinträchtigt.",
+      "5-h2": "Dienstleister für Zusammenarbeit",
+      "5-p-1": "Um den reibungslosen Ablauf der Dienste zu gewährleisten, können wir Dritte beauftragen, folgende Aufgaben zu erfüllen:",
+      "5-li-1": "Hilfe bei der Bereitstellung von Diensten",
+      "5-li-2": "Als Teil des Dienstes Aufgaben ausführen",
+      "5-li-3": "Dienstleistungsleistung analysieren",
+      "5-p-2": "Diese Dritten benötigen möglicherweise Zugriff auf Ihre personenbezogenen Informationen, um ihre Arbeit zu erledigen. Sie werden jedoch streng angewiesen, diese nur für die von uns beauftragten Aufgaben zu verwenden und vertraulich zu behandeln.",
+      "6-h2": "Datensicherheitsversprechen",
+      "6-p": "Wir sind uns der Wichtigkeit der Sicherheit Ihrer personenbezogenen Informationen bewusst und versprechen daher, alle angemessenen Maßnahmen zu ergreifen, um Ihre Informationen zu schützen. Es muss jedoch darauf hingewiesen werden, dass es im Internet keine absolut sichere Art der Informationsübertragung gibt.",
+      "7-h2": "Links zu Drittanbieter-Websites",
+      "7-p": "Unsere Dienste können Links zu Drittanbieter-Websites enthalten. Durch Klicken auf diese Links gelangen Sie zu externen Websites, deren Datenschutzrichtlinien nicht mit unserer in Verbindung stehen. Wir empfehlen Benutzern, die Datenschutzrichtlinien dieser Websites zu überprüfen.",
+      "8-h2": "Aktualisierung der Datenschutzrichtlinie",
+      "8-p": "Wir behalten uns das Recht vor, die Datenschutzrichtlinie nach Bedarf zu aktualisieren. Die Aktualisierungen werden auf dieser Seite veröffentlicht, und wir werden versuchen, Sie zu informieren, wenn sie in Kraft treten. Es ist eine gute Angewohnheit, diese Seite regelmäßig zu überprüfen, um die neuesten Richtlinien zu erfahren."
     },
     "termsConditions": {
-      "1-h1": "Nutzungsbedingungen der Gen24 KI-Tool-Übersicht",
-      "1-p": "Vielen Dank, dass Sie die Gen24 KI-Tool-Übersicht verwenden. Durch die Nutzung unserer Dienste stimmen Sie den unten aufgeführten Bedingungen zu. Bitte lesen Sie diese daher sorgfältig durch.",
-      "2-h2": "Dienstinhalt",
-      "2-p": "Die Gen24 KI-Tool-Übersicht bietet einen Verzeichnisdienst für KI-Tools und hilft Benutzern, verschiedene KI-Tools zu entdecken und zu nutzen. Wir verbessern unsere Angebote ständig und behalten uns das Recht vor, Funktionen des Dienstes hinzuzufügen, zu ändern oder zu entfernen.",
-      "3-h2": "Nutzungsbedingungen",
-      "3-p": "Durch die Nutzung der Gen24 KI-Tool-Übersicht stimmen Sie zu, Folgendes nicht zu tun:",
-      "3-li-1": "Den Dienst betrügerisch zu nutzen;",
-      "3-li-2": "Die Privatsphäre anderer Nutzer zu verletzen;",
-      "3-li-3": "Den ordnungsgemäßen Betrieb des Dienstes zu stören;",
-      "4-h2": "Urheberrechte",
-      "4-p": "Der Inhalt dieses Dienstes ist urheberrechtlich geschützt. Sie dürfen den Inhalt ohne vorherige Genehmigung nicht kopieren, verteilen oder verwenden.",
-      "5-h2": "Haftungsbeschränkung",
-      "5-p": "Die Gen24 KI-Tool-Übersicht haftet nicht für Schäden, die durch die Nutzung der Dienste entstehen. Der Dienst wird 'wie besehen' und ohne ausdrückliche oder implizierte Garantien bereitgestellt.",
-      "6-h2": "Änderungen der Nutzungsbedingungen",
-      "6-p": "Wir können diese Nutzungsbedingungen jederzeit ändern. Änderungen werden auf dieser Seite veröffentlicht, und wir empfehlen, die Bedingungen regelmäßig zu überprüfen. Die fortgesetzte Nutzung des Dienstes nach Änderungen bedeutet, dass Sie die neuen Bedingungen akzeptieren.",
-      "7-h2": "Kontakt",
-      "7-p": "Bei Fragen zu diesen Nutzungsbedingungen kontaktieren Sie uns bitte unter contact@Gen24.com."
+      "1-h1": "Gen24 AI Tools Index Nutzungsbedingungen",
+      "1-p": "Vielen Dank für Ihren Besuch auf dem Gen24 AI Tools Index! Unsere Plattform (unter https://gen24.com) bietet einen umfassenden Katalog von AI Tools. Der Zugriff oder die Nutzung unserer Plattform bedeutet Ihre Zustimmung zu diesen Dienstbedingungen. Wenn Sie nicht zustimmen, verwenden Sie bitte diese Website nicht.",
+      "2-h2": "Nutzungsautorisation",
+      "2-p": "Wir gewähren Ihnen eine begrenzte, nicht ausschließliche und nicht übertragbare Autorisation, um unsere Website und ihre Dienste ausschließlich für persönliche, nicht kommerzielle Zwecke zu nutzen. Ohne unsere schriftliche Zustimmung haben Sie kein Recht, Inhalte der Website zu kopieren, zu ändern oder auf irgendeine kommerzielle Weise zu verwenden.",
+      "3-h2": "Inhaltsrechte",
+      "3-p": "Die Urheberschaft der auf dieser Website erstellten Bilder liegt beim Ersteller. Gen24.com erhebt keinen Anspruch auf die Urheberschaft von von Benutzern generierten Inhalten.",
+      "4-h2": "Benutzerdatenpolitik",
+      "4-p": "Wir sammeln personenbezogene Daten (einschließlich Name, E-Mail-Adresse und Zahlungsinformationen) und nicht personenbezogene Daten (wie Cookies auf der Website), um die Diensterfahrung zu optimieren. Die Verwendung aller Daten erfolgt gemäß dieser Datenschutzrichtlinie.",
+      "5-h2": "Anwendbares Recht",
+      "5-p": "Diese Bedingungen werden gemäß dem Recht der Vereinigten Staaten ausgelegt und durchgeführt, ohne die Grundsätze des Rechtskonflikts zu berücksichtigen.",
+      "6-h2": "Änderung der Bedingungen",
+      "6-p": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern oder zu ersetzen, und werden Sie über wichtige Änderungen per E-Mail informieren. Die weitere Nutzung der Plattform bedeutet Ihre Akzeptanz dieser Änderungen.",
+      "7-h2": "Kontaktinformationen",
+      "7-p": "Für alle Fragen zu den Bedingungen wenden Sie sich bitte an contact@Gen24.ai.",
+      "last-p": "Die Nutzung des Gen24 AI Tools Index bedeutet Ihre Zustimmung zu allen oben genannten Dienstbedingungen."
+    }
+  },
+  "NotFound": {
+    "title": "404 Seite nicht gefunden",
+    "goHome": "Zurück zur Startseite"
+  },
+  "Home": {
+    "title": "Gen24 AI - Entdecke die Top-AI Tools von 2024",
+    "subTitle": "Entdecke und erhalte die AI Tools, die du benötigst, im Gen24 AI Tools Überblick. Der AI Tool-Katalog wird täglich von GPT-4o aktualisiert. Jetzt kostenlos einreichen und deine SEO-Promotion unterstützen.",
+    "ai-navigate": "AI Tool Navigation",
+    "exploreMore": "Entdecke mehr ausgewählte AI Tools",
+    "checkDetail": "Details einsehen",
+    "search": "Schnellsuche",
+    "result": "Suchergebnisse anzeigen",
+    "empty": "Keine Daten verfügbar"
+  },
+  "Category": {
+    "home": "Startseite",
+    "empty": "Keine Daten"
+  },
+  "Submit": {
+    "title": "Teile Deine AI Innovation",
+    "subTitle": "Integriere Dein AI Tool in den Gen24 AI Katalog, um mehr Zielverkehr anzuziehen",
+    "website": "Website-Name",
+    "url": "Deine Website-URL",
+    "submit": "Jetzt einreichen",
+    "add": "Jetzt hinzufügen",
+    "text": "Füge einen Link zum Gen24 AI Katalog auf Deiner Website-Hauptseite hinzu, und nachdem Du diesen einfachen Schritt abgeschlossen hast, kannst Du Dein AI Tool kostenlos einreichen!",
+    "networkError": "Netzwerkverbindungsfehler",
+    "success": "Eingereicht erfolgreich"
+  },
+  "Startup": {
+    "title": "Starte Deine Unternehmensreise",
+    "subTitle": "Entdecke und promotiere Deine Unternehmenswebsite mit der ultimativen Navigation. Um dieser Liste beizutreten oder Dein Produkt in den kostenlosen Katalog aufzunehmen, kontaktiere uns bitte unter contact@Gen24.com.",
+    "updateTime": "Wir sind bemüht, Inhalte täglich zu planen und zu aktualisieren. Die letzte Aktualisierung erfolgte am:",
+    "table": {
+      "da": "Domain Authority",
+      "website": "Website-Name",
+      "tags": "Schlüsselwörter",
+      "price": "Preis",
+      "submission": "Wie einreichen"
     },
-    "Submit": {
-      "title": "Teilen Sie Ihr innovatives KI-Tool",
-      "subTitle": "Fügen Sie Ihr KI-Tool der Gen24 KI-Tool-Übersicht hinzu und erhöhen Sie den Traffic auf Ihrer Website.",
-      "website": "Webseitenname",
-      "url": "Link zu Ihrer Website",
-      "submit": "Jetzt einreichen",
-      "add": "Jetzt hinzufügen",
-      "text": "Reichen Sie Ihr KI-Tool kostenlos ein, indem Sie die Gen24 KI-Tool-Übersicht auf Ihrer Homepage verlinken!",
-      "networkError": "Verbindungsfehler",
-      "success": "Erfolgreich eingereicht"
+    "detail": {
+      "visitWebsite": "Klicken Sie, um zu besuchen",
+      "introduction": "Website-Einführung"
+    }
+  },
+  "Explore": {
+    "title": "Entdecke die besten AI Tools von 2024",
+    "subTitle": "Im Gen24 AI Tools Überblick nach Deinen Lieblings-AI Tools graben. Der AI Tool-Katalog wird täglich von GPT-4o aktualisiert."
+  },
+  "Metadata": {
+    "home": {
+      "title": "Entdecke die Spitzen-AI Tools | Gen24 AI Träger",
+      "description": "Das Entdecken und Nutzen von Top-AI Tools war noch nie so einfach. Gen24 AI Träger versammelt eine breite Auswahl an kostenlosen AI Tools, um Dir eine unvergleichliche Dienstleistung zu bieten.",
+      "keywords": "AI Tools, kostenlose AI Tools, AI Technologie, Gen24 AI Katalog"
     },
-    "Startup": {
-      "title": "Starten Sie Ihre Startup-Reise",
-      "subTitle": "Entdecken und bewerben Sie Ihre Startup-Website mit den besten Empfehlungen. Um kostenlos im Katalog aufgeführt oder vorgeschlagen zu werden, kontaktieren Sie uns bitte unter contact@Gen24.com.",
-      "updateTime": "Wir versprechen, den Inhalt täglich zu kompilieren und zu aktualisieren. Letzte Aktualisierung:",
-      "table": {
-        "da": "Domain-Autorität",
-        "website": "Webseitenname",
-        "tags": "Stichwörter",
-        "price": "Preis",
-        "submission": "Einreichungsmethode"
-      },
-      "detail": {
-        "visitWebsite": "Klicken Sie, um zu besuchen",
-        "introduction": "Website-Einführung"
-      }
+    "ai": {
+      "titleSubfix": " | Fokussiert auf AI Technologie-Präferenzsammlung"
     },
-    "Explore": {
-      "title": "Entdecken Sie die besten KI-Tools von 2024",
-      "subTitle": "Finden Sie Ihre bevorzugten KI-Tools in der Gen24 KI-Tool-Übersicht. Die Liste der KI-Tools wird täglich von GPT-4o aktualisiert."
+    "explore": {
+      "title": "2024 ausgewählte AI Tools entdecken | Gen24 AI Index",
+      "titlePrefix": "Entdecke Gen24 AI",
+      "titleSuffix": " | Fokussiert auf AI Tool Sammlung",
+      "description": "Entdecke und nutze die besten AI Technologien von 2024. Gen24 AI Index sammelt verschiedene AI Tools, um Dir eine außergewöhnliche Dienstleistungserfahrung und fortschrittliche Technologie-Lösungen zu bieten.",
+      "keywords": "AI Tools, AI Technologie-Entdeckung, 2024 AI Tools, Gen24 AI Katalog"
     },
-    "Metadata": {
-      "home": {
-        "title": "Entdecken Sie die besten KI-Tools | Gen24 KI-Tool-Verzeichnis",
-        "description": "Das Entdecken und Nutzen der besten KI-Tools war nie einfacher. Das Gen24 KI-Tool-Verzeichnis bietet eine Vielzahl von kostenlosen KI-Tools, die an einem Ort zusammengefasst sind, um die beste Benutzererfahrung zu bieten.",
-        "keywords": "KI-Tools, kostenlose KI-Tools, KI-Technologie, Gen24 KI-Tool-Verzeichnis"
-      },
-      "ai": {
-        "titleSubfix": " | Sammlung der besten KI-Technologien"
-      },
-      "explore": {
-        "title": "Entdecken Sie die ausgewählten KI-Tools von 2024 | Gen24 KI-Index",
-        "titlePrefix": "Entdecken Gen24 KI",
-        "titleSuffix": " | Fachsammlung von KI-Tools",
-        "description": "Entdecken und nutzen Sie die besten KI-Technologien von 2024. Der Gen24 KI-Index listet verschiedene KI-Tools auf und bietet die beste Serviceerfahrung und hochmoderne technologische Lösungen.",
-        "keywords": "KI-Tools, Erforschung von KI-Technologien, KI-Tools 2024, Gen24 KI-Index"
-      },
-      "submit": {
-        "title": "Teilen Sie Ihre KI-Innovation und werden Sie bemerkt | Gen24 KI-Verzeichnis"
-      }
+    "submit": {
+      "title": "Teile Deine AI Innovation und erweitere Deine Reichweite | Gen24 AI Träger"
     }
   }
 }
