@@ -1,185 +1,178 @@
 {
   "Common": {
-    "loading": "loading..."
+    "loading": "Loading..."
   },
   "Navigation": {
-    "title": "Open-source Tap4 AI Tools Directory",
-    "discover": "Discover AI",
-    "submit": "Submit",
-    "newtools": "New Tools",
-    "startup": "Startup",
-    "menu": "menu"
+    "title": "Open Source Gen24 AI Tool Overview",
+    "discover": "Explore the World of AI",
+    "submit": "Submit Your Tool",
+    "newtools": "Newest AI Tools",
+    "startup": "Startup Section",
+    "menu": "Navigation Menu"
   },
   "Footer": {
-    "title": "Open-source Tap4 AI Tools Directory",
-    "subTitle": "Discover the best AI tools of 2024 with the Tap4 AI Tools Directory!",
-    "support": "Support",
-    "tap4": "Tap4 AI",
-    "tattoo": "AI Tattoo Generator",
-    "privacy": "Privacy policy",
-    "termsConditions": "Terms & Conditions",
+    "title": "Open Source Gen24 AI Tool Overview",
+    "subTitle": "Explore the Top AI Tools of 2024 - All at Gen24 AI Tool Overview!",
+    "support": "Technical Support",
+    "gen24": "Gen24 AI Platform",
+    "privacy": "Privacy Policy",
+    "termsConditions": "Terms of Service",
     "contactUs": "Contact Us"
   },
   "Faq": {
     "title": "Frequently Asked Questions",
     "1": {
-      "question": "What is Open-source Tap4 AI Tools Directory?",
-      "answer": "Tap4 AI Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
+      "question": "What is Gen24 AI Tool Overview?",
+      "answer": "Gen24 AI Tool Overview - We are building a comprehensive AI tool library to help you discover and use your favorite AI tools. Here, you can find AI tools that cover writing, marketing, content rewriting, SEO optimization, learning assistance, generative design, research, artistic creation, music, video processing, programming, and image processing."
     },
     "2": {
-      "question": "How to found your ai tools in tap4 ai tools directory?",
-      "answer-1": "1. Open tap4.ai.",
-      "answer-2": "2. Explore the ai tools in the tap4 ai tools directory.",
-      "answer-3": "3. Click the ai tools that you need to get the detail and visit it."
+      "question": "How can I find the AI tools I need on Gen24 AI Tool Overview?",
+      "answer-1": "1. Visit the Gen24.com website",
+      "answer-2": "2. Browse the list of AI tools",
+      "answer-3": "3. Click on the AI tool that interests you to learn more and access it"
     },
     "3": {
-      "question": "What are the main features of Tap4 AI Tools Directory?",
-      "answer-1": "1. Free AI Tools Directory: It's free to found your favorite AI Tools here.",
-      "answer-2": "2. Startup List: The free startup list for ai tools developers."
+      "question": "What are the special features of Gen24 AI Tool Overview?",
+      "answer-1": "1. Comprehensive AI tool list: Explore your favorite AI tools for free",
+      "answer-2": "2. Startup exhibition area: A free exhibition platform for AI tool developers"
     },
     "4": {
-      "question": "Is it free to submit ai tools to Tap4 AI Tools Directory?",
-      "answer": "Yes, it's free currently. But you should share the backlink for Tap4 AI Tools Directory!"
+      "question": "Is there a fee to submit AI tools to Gen24 AI Tool Overview?",
+      "answer": "Completely free. However, we recommend sharing the Gen24 AI Tool Overview link on your website to increase exposure!"
     },
     "5": {
-      "question": "What's the categories list of AI Tools that Tap4 AI Tools Directory support?",
-      "answer": "We will support all kinds of AI Tools later. Please wait for a few days."
+      "question": "What types of AI tools are supported by Gen24 AI Tool Overview?",
+      "answer": "We will soon support all types of AI tools. Please stay tuned for more details."
     },
     "6": {
-      "question": "What's the frequency for the up of AI tools in Tap4 AI Directory?",
-      "answer": "The list of AI tools will be updated daily."
+      "question": "How frequently is Gen24 AI Tool Overview updated?",
+      "answer": "Our AI tool list is updated daily."
     },
     "7": {
-      "question": "Is it support GPT-4o or Sora AI here?",
-      "answer": "You can get the GPT-4o or Sora AI tool here. Here is the introduction of GPT-4o and Sora video, and you can visit the website of the tools."
+      "question": "Does it support tools like GPT-4o or Sora AI?",
+      "answer": "You can find tools like GPT-4o or Sora AI here and directly access their official websites through our descriptions."
     },
     "8": {
-      "question": "Troubleshooting",
-      "answer": "If the content aren't appearing, try a different browser, clear your cache. If issues persist, contact us at contact@6677.ai."
+      "question": "What should I do if I encounter a malfunction?",
+      "answer": "If the content does not display correctly, try switching browsers or clearing the cache. If the problem persists, please contact us at contact@6677.ai."
     },
     "9": {
-      "question": "How does the content of Tap4 AI Directory get generated?",
-      "answer": "The content of the description of the ai tools is generated by GPT-4o from OpenAI."
+      "question": "How is the content of Gen24 AI Tool Overview generated?",
+      "answer": "The AI tool descriptions on the platform are automatically generated by OpenAI's GPT-4o."
     },
     "10": {
-      "question": "What are the usage rights of the AI tools?",
-      "answer": "Tap4 AI Tools Directory is just the AI Directory for AI tools. The usage rights of the AI tools are based on the AI tools' website."
-    },
-    "11": {
-      "question": "Does the webui of Tap4 AI Directory is open source?",
-      "answer": "Yes, we will open source the webui of Tap4 AI Directory in the github(https://github.com/6677-ai/tap4-ai-webui). Please star us."
+      "question": "About the usage rights of AI tools?",
+      "answer": "Gen24 AI Tool Overview only provides a directory service for AI tools. The specific usage rights are governed by the official websites of each AI tool."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Privacy Policy for Open-source Tap4 AI Tools Directory",
-      "1-p": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
-      "2-h2": "1. Information Collection and Use",
-      "2-p": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
-      "3-h2": "2. Log Data",
-      "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
-      "4-h2": "3. Cookies",
-      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
-      "5-h2": "4. Service Providers",
-      "5-p-1": "I may employ third-party companies and individuals due to the following reasons:",
-      "5-li-1": "To facilitate our Service;",
-      "5-li-2": "To provide the Service on our behalf;",
-      "5-li-3": "To perform Service-related services;",
-      "5-li-4": "To assist us in analyzing how our Service is used;",
-      "5-p-2": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
-      "6-h2": "5. Security",
-      "6-p": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
-      "7-h2": "6. Links to Other Sites",
-      "7-p": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
-      "8-h2": "7. Changes to This Privacy Policy",
-      "8-p": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
+      "1-h1": "Gen24 AI Tool Index Privacy Policy",
+      "1-p": "This page aims to clearly inform our users about the specific policies on the collection, use, and disclosure of personal information. By choosing to use the Gen24 AI Tool Index, you agree to handle your information in accordance with this privacy policy. We are committed to ensuring that the personal information collected is solely used to enhance the service experience. Unless otherwise stated, your information will be kept confidential.",
+      "2-h2": "Information Collection and Use",
+      "2-p": "To continuously improve service quality, we may need you to provide certain personally identifiable information. The requested information will be stored only on your device and will not be collected directly by us. Third-party services involved in our service may collect information used to identify you.",
+      "3-h2": "Log Data Collection",
+      "3-p": "Please note that whenever you use our service, in case of an error in the program, we may collect information from your device through third-party products, including but not limited to your device's IP address, model, operating system version, and the specific time you use our service.",
+      "4-h2": "About Cookies",
+      "4-p": "Cookies are a common website feature used to store user preferences. Our service does not directly use cookies but may collect information through third-party components. Users can accept or refuse cookies according to their preference, but please note that refusing cookies may affect some functionality of the service.",
+      "5-h2": "Partner Service Providers",
+      "5-p-1": "To ensure the smooth operation of our service, we may entrust third-party companies or individuals to complete the following tasks:",
+      "5-li-1": "Assist in providing services",
+      "5-li-2": "Perform service-related tasks",
+      "5-li-3": "Analyze service performance",
+      "5-p-2": "These third parties may have access to your personal information to perform their tasks. They are required to use it only to perform the tasks assigned to them and to keep it confidential.",
+      "6-h2": "Data Security Commitment",
+      "6-p": "We understand the importance of personal information security and are committed to taking all reasonable measures to protect your information. However, we remind you that no method of transmission over the Internet is completely secure.",
+      "7-h2": "Links to Third-Party Websites",
+      "7-p": "Our service may contain links to third-party websites. Clicking on these links will direct you to external sites whose privacy policies are independent of ours. We advise users to review their privacy policies.",
+      "8-h2": "Privacy Policy Updates",
+      "8-p": "We reserve the right to update the privacy policy as needed. Updates will be posted on this page, and we will try to notify you when they become effective. Regularly reviewing this page to stay informed about the latest policy is a good habit."
     },
     "termsConditions": {
-      "1-h1": "Terms of Service for Tap4 AI Directory",
-      "1-p": "Welcome to Tap4 AI Directory! Our website, located at https://tap4.ai (\"Website\"), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
-      "2-h2": "1. Use License",
-      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
-      "3-h2": "2. Ownership",
-      "3-p": "The ownership of images generated from text on the Website belongs to the person who created the image. Tap4.ai claims no ownership over images created by users.",
-      "4-h2": "3. User Data Collection",
-      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
-      "terms-of-service": "terms-of-service",
-      "5-h2": "4. Governing Law",
-      "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
-      "6-h2": "5. Changes to Terms",
-      "6-p": "Tap4 AI Directory reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
-      "7-h2": "6. Contact Information",
-      "7-p": "If you have any questions about these Terms, please contact us at contact@6677.ai.",
-      "last-p": "By using Tap4 AI Directory, you signify your acceptance of these Terms of Service."
+      "1-h1": "Gen24 AI Tool Index Terms of Use",
+      "1-p": "Thank you for visiting the Gen24 AI Tool Index! Our platform (located at https://gen24.com) aims to provide a comprehensive directory of AI tools. By accessing or using our platform, you agree to comply with these terms of service. If you do not agree, please do not use this website.",
+      "2-h2": "Usage Authorization",
+      "2-p": "We grant you a limited, non-exclusive, and non-transferable license to access and use our website and its services for personal and non-commercial purposes. Without our written consent, you are not allowed to copy, modify, or use the website content for commercial purposes.",
+      "3-h2": "Content Ownership",
+      "3-p": "The ownership of images created on this site belongs to the creator. Gen24.com does not claim any ownership of user-generated content.",
+      "4-h2": "User Data Policy",
+      "4-p": "We collect personal data (including names, email addresses, and payment information) and non-personal data (such as website cookies) to optimize the service experience. All data usage is governed by this privacy policy.",
+      "5-h2": "Applicable Law",
+      "5-p": "These terms will be governed and interpreted by the laws of the United States, without regard to conflict of law principles.",
+      "6-h2": "Modification of Terms",
+      "6-p": "We reserve the right to modify or replace these terms at any time, and we will notify you of any major changes via email. Continuing to use the platform implies that you accept these changes.",
+      "7-h2": "Contact",
+      "7-p": "If you have any questions about these terms, please contact us at contact@Gen24.ai.",
+      "last-p": "Using the Gen24 AI Tool Index indicates your acceptance of all the above terms."
     }
   },
   "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
+    "title": "404 Page Not Found",
+    "goHome": "Return to Home"
   },
   "Home": {
-    "title": "Discover The Best AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in Open-source Tap4 AI Tools Directory. AI tools list are updated daily by GPT-4o. It's free to submit here to enhance your SEO now. ",
-    "ai-navigate": "AI Tools List",
-    "exploreMore": "Get More AI Tools",
-    "checkDetail": "View Detail",
-    "search": "Search",
-    "result": "Search Result",
+    "title": "Gen24 AI - Discover the Best AI Tools of 2024",
+    "subTitle": "Find and obtain the AI tools you need in the Gen24 AI Tool Overview. The AI tool directory is updated daily by GPT-4o. Submit your tools for free and boost your SEO.",
+    "ai-navigate": "AI Tool Navigation",
+    "exploreMore": "Discover More AI Tools",
+    "checkDetail": "View Details",
+    "search": "Quick Search",
+    "result": "Search Results Display",
     "empty": "No data available"
   },
   "Category": {
-    "home": "home",
-    "empty": "No data available"
+    "home": "Home Page",
+    "empty": "No data"
   },
   "Submit": {
-    "title": "Submit your AI Tool",
-    "subTitle": "Submit your AI Tool and Get traffic from Tap4 AI Directory",
+    "title": "Share Your Innovative AI Tool",
+    "subTitle": "Add your AI tool to the Gen24 AI Tool Overview and attract more targeted traffic",
     "website": "Website Name",
-    "url": "Website URL",
-    "submit": "Submit",
-    "add": "Add",
-    "text": "to your website homepage, And then you can submit your website successfully for free！",
-    "networkError": "Network Error",
-    "success": "success"
+    "url": "Your Website Link",
+    "submit": "Submit Now",
+    "add": "Add Now",
+    "text": "Link the Gen24 AI Tool Overview on the homepage of your website, then submit your AI tool for free!",
+    "networkError": "Network Connection Error",
+    "success": "Submission Successful"
   },
   "Startup": {
-    "title": "Kickstart Your Startup Launch",
-    "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: contact@tap4.ai. ",
-    "updateTime": "Curated and updated daily. Last updated:",
+    "title": "Launch Your Entrepreneurial Journey",
+    "subTitle": "Discover and promote your startup site through an ultimate navigation. To be listed here or to propose your product for free catalog inclusion, contact us at contact@Gen24.com.",
+    "updateTime": "We commit to organizing and updating the content daily. Last update:",
     "table": {
-      "da": "DA",
-      "website": "Website",
-      "tags": "Tags",
-      "price": "Price",
-      "submission": "Submission"
+      "da": "Domain Authority",
+      "website": "Site Name",
+      "tags": "Keywords",
+      "price": "Pricing",
+      "submission": "How to Submit"
     },
     "detail": {
-      "visitWebsite": "Visit Website",
-      "introduction": "Introduction"
+      "visitWebsite": "Click to Visit",
+      "introduction": "Site Introduction"
     }
   },
   "Explore": {
-    "title": "Discover The Best AI Tools 2024",
-    "subTitle": "Get your favorite AI tools in Tap4 AI Tools Directory. AI tools list are updated daily by GPT-4o."
+    "title": "Discover the Best AI Tools of 2024",
+    "subTitle": "Find the AI tools you love in the Gen24 AI Tool Overview. The AI tool list is updated daily by GPT-4o."
   },
   "Metadata": {
     "home": {
-      "title": "Get your best AI Tools | Open-source Tap4 AI Tools Directory",
-      "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
-      "keywords": "Tap4 AI Directory"
+      "title": "Discover the Best AI Tools | Gen24 AI Tool Directory",
+      "description": "Finding and using the best AI tools has never been easier. The Gen24 AI Tool Directory brings together a wide range of free AI tools to offer you an unparalleled practical experience.",
+      "keywords": "AI Tools, Free AI Tools, AI Technology, Gen24 AI Tool Directory"
     },
     "ai": {
-      "titleSubfix": "Tap4 AI Directory"
+      "titleSubfix": " | Premium Selection of AI Technology Tools"
     },
     "explore": {
-      "title": "Best AI Tools Explore 2024 | Open-source Tap4 AI Tools Directory",
-      "titlePrefix": "Tap4 AI Directory Explore",
-      "titleSuffix": "Tap4 AI Directory",
-      "description": "Tap4 AI Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Tap4 AI Directory, Tap4 AI Directory aims to collect all the AI tools and provide the best for users.",
-      "keywords": "Tap4 AI Directory"
+      "title": "Discover the Selected AI Tools of 2024 | Gen24 AI Index",
+      "titlePrefix": "Explore Gen24 AI",
+      "titleSuffix": " | Compilation of Specialized AI Tools",
+      "description": "Discover and use the best AI technologies of 2024. The Gen24 AI Index lists diverse AI tools, aiming to offer you optimal service experience and advanced technological solutions.",
+      "keywords": "AI Tools, Technological AI Exploration, AI Tools 2024, Gen24 AI Directory"
     },
     "submit": {
-      "title": "Submit your AI tool and get Get Traffic | Tap4 AI Directory"
+      "title": "Share Your AI Innovations and Increase Your Visibility | Gen24 AI Directory"
     }
   }
 }

@@ -1,185 +1,163 @@
 {
   "Common": {
-    "loading": "carregando..."
+    "loading": "Carregando..."
   },
   "Navigation": {
-    "title": "Tap4 Diretório de Ferramentas de IA",
-    "discover": "Descobrir IA",
-    "submit": "Enviar",
-    "newtools": "Novas Ferramentas",
-    "startup": "Inicialização",
-    "menu": "menu"
+    "title": "Visão geral das Ferramentas de IA Open Source Gen24",
+    "discover": "Explorar o Mundo da IA",
+    "submit": "Enviar Ferramenta",
+    "newtools": "Novas Ferramentas de IA",
+    "startup": "Seção de Startups",
+    "menu": "Menu de Navegação"
   },
   "Footer": {
-    "title": "Tap4 Diretório de Ferramentas de IA",
-    "subTitle": "Descubra as melhores ferramentas de IA de 2024 com o Diretório de Ferramentas de IA do Tap4!",
-    "support": "Apoio",
-    "tap4": "Tap4 AI",
-    "tattoo": "Gerador de Tatuagens AI",
+    "title": "Visão geral das Ferramentas de IA Open Source Gen24",
+    "subTitle": "Descubra as melhores ferramentas de IA de 2024 - Bem-vindo à Visão Geral das Ferramentas de IA Gen24!",
+    "support": "Suporte Técnico",
+    "gen24": "Plataforma de IA Gen24",
     "privacy": "Política de Privacidade",
     "termsConditions": "Termos e Condições",
-    "contactUs": "Contate-nos"
+    "contactUs": "Contato"
   },
   "Faq": {
     "title": "Perguntas Frequentes",
     "1": {
-      "question": "O que é o Diretório de Ferramentas de IA do Tap4?",
-      "answer": "O Diretório de Ferramentas de IA do Tap4 - tap4.ai está construindo um diretório de ferramentas de IA que ajuda você a obter suas ferramentas de IA favoritas. Você pode obter ferramentas de escrita de IA, ferramentas de marketing de IA, ferramentas de parafraseamento de IA, ferramentas de SEO de IA, ferramentas de estudo de IA, ferramentas de geração de IA, ferramentas de pesquisa de IA, ferramentas de arte de IA, ferramentas de música de IA, ferramentas de vídeo de IA, ferramentas de codificação de IA, ferramentas de foto de IA e muito mais aqui."
+      "question": "O que é a Visão Geral das Ferramentas de IA Gen24?",
+      "answer": "A Visão Geral das Ferramentas de IA Gen24 foi criada para ajudá-lo a descobrir e utilizar suas ferramentas de IA favoritas. Aqui, você encontrará uma biblioteca abrangente de ferramentas de IA em diversas áreas, incluindo redação, marketing, reescrita de conteúdo, otimização de SEO, apoio ao estudo, design genético, pesquisa, criação artística, música, processamento de vídeo, programação e manipulação de imagens."
     },
     "2": {
-      "question": "Como encontrar suas ferramentas de IA no diretório de ferramentas de IA do Tap4?",
-      "answer-1": "1. Abra tap4.ai.",
-      "answer-2": "2. Explore as ferramentas de IA no diretório de ferramentas de IA do Tap4.",
-      "answer-3": "3. Clique nas ferramentas de IA que você precisa para obter detalhes e visitá-las."
+      "question": "Como encontrar as ferramentas de IA necessárias na Visão Geral das Ferramentas de IA Gen24?",
+      "answer-1": "1. Visite o site Gen24.com",
+      "answer-2": "2. Navegue pela lista de ferramentas de IA",
+      "answer-3": "3. Clique na ferramenta de IA de interesse para obter mais detalhes e começar a usar"
     },
     "3": {
-      "question": "Quais são os principais recursos do Diretório de Ferramentas de IA do Tap4?",
-      "answer-1": "1. Diretório de Ferramentas de IA Grátis: É grátis encontrar suas ferramentas de IA favoritas aqui.",
-      "answer-2": "2. Lista de Inicialização: A lista de inicialização gratuita para desenvolvedores de ferramentas de IA."
+      "question": "Quais são os recursos especiais da Visão Geral das Ferramentas de IA Gen24?",
+      "answer-1": "1. Lista abrangente de ferramentas de IA: Explore suas ferramentas de IA favoritas gratuitamente",
+      "answer-2": "2. Seção de exposição de startups: Plataforma de exposição gratuita para desenvolvedores de ferramentas de IA"
     },
     "4": {
-      "question": "É gratuito enviar ferramentas de IA para o Diretório de Ferramentas de IA do Tap4?",
-      "answer": "Sim, é grátis atualmente. Mas você deve compartilhar o backlink para o Diretório de Ferramentas de IA do Tap4!"
+      "question": "Há algum custo para enviar uma ferramenta de IA?",
+      "answer": "É completamente gratuito. No entanto, recomendamos que compartilhe o link da Visão Geral das Ferramentas de IA Gen24 em seu website! Isso ajudará a aumentar sua visibilidade."
     },
     "5": {
-      "question": "Qual é a lista de categorias de Ferramentas de IA que o Diretório de Ferramentas de IA do Tap4 suporta?",
-      "answer": "Vamos apoiar todos os tipos de Ferramentas de IA mais tarde. Por favor, aguarde alguns dias."
+      "question": "Que tipos de ferramentas de IA a Visão Geral das Ferramentas de IA Gen24 suporta?",
+      "answer": "Pretendemos suportar todos os tipos de ferramentas de IA. Aguarde novidades."
     },
     "6": {
-      "question": "Qual é a frequência para a atualização de ferramentas de IA no Diretório de IA do Tap4?",
-      "answer": "A lista de ferramentas de IA será atualizada diariamente."
+      "question": "Com que frequência a Visão Geral das Ferramentas de IA Gen24 é atualizada?",
+      "answer": "A lista de ferramentas de IA é atualizada diariamente."
     },
     "7": {
-      "question": "Ele suporta o GPT-4o ou Sora AI aqui?",
-      "answer": "Você pode obter a ferramenta GPT-4o ou Sora AI aqui. Aqui está a introdução do vídeo GPT-4o e Sora, e você pode visitar o site das ferramentas."
+      "question": "A Visão Geral das Ferramentas de IA Gen24 suporta ferramentas como GPT-4o ou Sora AI?",
+      "answer": "Ferramentas como GPT-4o ou Sora AI podem ser encontradas aqui, e você pode acessar seus sites oficiais através de nossas descrições."
     },
     "8": {
-      "question": "Resolução de problemas",
-      "answer": "Se o conteúdo não estiver aparecendo, tente um navegador diferente, limpe seu cache. Se os problemas persistirem, entre em contato conosco em contact@6677.ai."
+      "question": "O que fazer se ocorrer uma falha funcional?",
+      "answer": "Se o conteúdo não for exibido corretamente, tente mudar o navegador ou limpar o cache. Se o problema persistir, entre em contato através de contact@6677.ai."
     },
     "9": {
-      "question": "Como o conteúdo do Diretório de IA do Tap4 é gerado?",
-      "answer": "O conteúdo da descrição das ferramentas de IA é gerado pelo GPT-4o da OpenAI."
+      "question": "Como é gerado o conteúdo da Visão Geral das Ferramentas de IA Gen24?",
+      "answer": "As descrições das ferramentas de IA na plataforma são geradas automaticamente pelo GPT-4o da OpenAI."
     },
     "10": {
-      "question": "Quais são os direitos de uso das ferramentas de IA?",
-      "answer": "O Diretório de Ferramentas de IA do Tap4 é apenas o Diretório de IA para ferramentas de IA. Os direitos de uso das ferramentas de IA são baseados no site das ferramentas de IA."
-    },
-    "11": {
-      "question": "O webui do Diretório de IA do Tap4 é de código aberto?",
-      "answer": "Sim, vamos abrir o código-fonte do webui do Diretório de IA do Tap4 no github (https://github.com/6677-ai/tap4-ai-webui). Por favor, nos dê uma estrela."
+      "question": "Sobre a permissão de uso das ferramentas de IA",
+      "answer": "A Visão Geral das Ferramentas de IA Gen24 fornece apenas serviços de diretório de ferramentas de IA. As permissões específicas de uso são gerenciadas pelos sites oficiais de cada ferramenta de IA."
     }
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Política de Privacidade para o Diretório de Ferramentas de IA do Tap4",
-      "1-p": "Esta página é usada para informar os visitantes sobre minhas políticas com relação à coleta, uso e divulgação de Informações Pessoais caso alguém decida usar meu Serviço. Se você optar por usar meu Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que eu coleto são usadas para fornecer e melhorar o Serviço. Não usarei ou compartilharei suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade. Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições.",
-      "2-h2": "1. Coleta e Uso de Informações",
-      "2-p": "Para uma melhor experiência, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal. As informações que solicito serão retidas em seu dispositivo e não serão coletadas por mim de forma alguma. O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.",
-      "3-h2": "2. Dados de Registro",
-      "3-p": "Quero informar que sempre que você usar meu Serviço, em caso de erro no aplicativo, coletarei dados e informações (por meio de produtos de terceiros ) em seu telefone chamados Dados de Registro. Esses Dados de Registro podem incluir informações como o endereço de Protocolo de Internet ('IP') do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, o horário e a data do uso do Serviço e outras estatísticas.",
-      "4-h2": "3. Cookies",
-      "4-p": "Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo. Este Serviço não usa explicitamente esses \"cookies\". No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam \"cookies\" para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.",
-      "5-h2": "4. Prestadores de Serviços",
-      "5-p-1": "Posso empregar empresas e indivíduos terceirizados pelos seguintes motivos:",
-      "5-li-1": "Para facilitar nosso Serviço;",
-      "5-li-2": "Para fornecer o Serviço em nosso nome;",
-      "5-li-3": "Para realizar serviços relacionados ao Serviço;",
-      "5-li-4": "Para nos ajudar a analisar como nosso Serviço é utilizado;",
-      "5-p-2": "Quero informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é realizar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.",
-      "6-h2": "5. Segurança",
-      "6-p": "Valorizo sua confiança ao nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios comercialmente aceitáveis ​​de protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.",
-      "7-h2": "6. Links para Outros Sites",
-      "7-p": "Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos não são operados por mim. Portanto, recomendo que você revise a Política de Privacidade desses sites. Não tenho controle sobre e não assumo responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros.",
-      "8-h2": "7. Alterações nesta Política de Privacidade",
-      "8-p": "Posso atualizar nossa Política de Privacidade periodicamente. Assim, é recomendável revisar esta página periodicamente para quaisquer alterações. Notificarei você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Essas alterações são efetivas imediatamente após serem publicadas nesta página."
+      "1-h1": "Política de Privacidade da Visão Geral das Ferramentas de IA Gen24",
+      "1-p": "Esta página destina-se a informar os usuários sobre nossas políticas de coleta, uso e divulgação de informações pessoais. Ao optar por utilizar a Visão Geral das Ferramentas de IA Gen24, você concorda com a coleta e uso de informações de acordo com esta política. As informações coletadas são utilizadas para melhorar o serviço e não serão usadas ou compartilhadas para outros fins.",
+      "2-h2": "Coleta e uso de informações",
+      "2-p": "Para uma melhor experiência de uso, podemos solicitar que você nos forneça certas informações de identificação pessoal. As informações solicitadas serão armazenadas no seu dispositivo e não serão coletadas diretamente por nós. As informações coletadas por serviços de terceiros podem ser usadas para identificar você.",
+      "3-h2": "Coleta de dados de registro",
+      "3-p": "Sempre que você utiliza nossos serviços, em caso de erro no aplicativo, coletamos dados e informações (através de produtos de terceiros) no seu dispositivo chamados “dados de registro”. Estes dados de registro podem incluir informações como endereço de IP do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar nosso serviço, a hora e a data de uso do serviço, entre outras estatísticas.",
+      "4-h2": "Sobre os Cookies",
+      "4-p": "Cookies são arquivos com uma pequena quantidade de dados, que são comumente utilizados como identificadores anônimos. Estes são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo. Este serviço não utiliza explicitamente cookies. No entanto, o aplicativo pode usar código de terceiros e bibliotecas que usam cookies para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, pode não ser capaz de usar algumas partes deste serviço.",
+      "5-h2": "Fornecedores de serviços",
+      "5-p-1": "Podemos empregar empresas e indivíduos terceirizados pelos seguintes motivos:",
+      "5-li-1": "Para facilitar nosso serviço;",
+      "5-li-2": "Para fornecer o serviço em nosso nome;",
+      "5-li-3": "Para executar serviços relacionados com o serviço;",
+      "5-li-4": "Para nos ajudar a analisar como nosso serviço é utilizado.",
+      "5-p-2": "Queremos informar aos usuários deste serviço que esses terceiros têm acesso às suas informações pessoais. O motivo é executar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.",
+      "6-h2": "Segurança dos dados",
+      "6-p": "Valorizamos sua confiança em nos fornecer suas informações pessoais, assim estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir segurança absoluta.",
+      "7-h2": "Links para outros sites",
+      "7-p": "Este serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Note que esses sites externos não são operados por nós. Portanto, aconselhamos fortemente a rever a política de privacidade desses websites. Não temos controle e não assumimos nenhuma responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.",
+      "8-h2": "Mudanças nesta Política de Privacidade",
+      "8-p": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que reveja esta página periodicamente para quaisquer mudanças. Notificaremos você de quaisquer mudanças publicando a nova Política de Privacidade nesta página. Estas mudanças são efetivas imediatamente, após serem postadas nesta página."
     },
     "termsConditions": {
-      "1-h1": "Termos de Serviço para o Diretório de IA do Tap4",
-      "1-p": "Bem-vindo ao Diretório de IA do Tap4! Nosso site, localizado em https://tap4.ai (\"Website\"), é dedicado a fornecer a você a capacidade de criar imagens personalizadas. Ao acessar ou usar nosso Website, você concorda em ficar vinculado a estes Termos de Serviço (\"Termos\"). Se você não concorda com qualquer parte dos termos, então você está proibido de usar o Website.",
-      "2-h2": "1. Licença de Uso",
-      "2-p": "Você recebe uma licença limitada, não exclusiva e intransferível para usar o Website e seus serviços para fins pessoais e não comerciais. Esta licença não inclui quaisquer direitos de copiar, modificar ou distribuir o conteúdo do Website ou usá-lo para fins comerciais sem nosso consentimento prévio por escrito.",
-      "3-h2": "2. Propriedade",
-      "3-p": "A propriedade das imagens geradas a partir do texto no Website pertence à pessoa que criou a imagem. O Tap4.ai não reivindica nenhuma propriedade sobre imagens criadas pelos usuários.",
-      "4-h2": "3. Coleta de Dados do Usuário",
-      "4-p": "Coletamos dados pessoais (nome, e-mail e informações de pagamento) e dados não pessoais (cookies da web) para melhorar nossos serviços. O uso desses dados é regido por nossa Política de Privacidade, que pode ser encontrada em",
-      "terms-of-service": "terms-of-service",
-      "5-h2": "4. Lei Aplicável",
-      "5-p": "Estes Termos serão regidos e interpretados de acordo com as leis dos Estados Unidos da América, sem levar em consideração seus princípios de conflitos de leis.",
-      "6-h2": "5. Alterações nos Termos",
-      "6-p": "O Diretório de IA do Tap4 reserva-se o direito, a nosso exclusivo critério, de modificar ou substituir estes Termos a qualquer momento. Notificaremos os usuários de quaisquer alterações por e-mail. Seu uso continuado do Website após qualquer alteração nestes Termos constituirá sua aceitação de tais alterações.",
-      "7-h2": "6. Informações de Contato",
-      "7-p": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco em contact@6677.ai.",
-      "last-p": "Ao usar o Diretório de IA do Tap4, você indica sua aceitação destes Termos de Serviço."
-    }
-  },
-  "NotFound": {
-    "title": "404 Não Encontrado",
-    "goHome": "ir para casa"
-  },
-  "Home": {
-    "title": "Tap4 AI - Descubra as melhores ferramentas de IA 2024",
-    "subTitle": "Obtenha suas ferramentas de IA favoritas no Diretório de Ferramentas de IA Tap4. A lista de ferramentas de IA é atualizada diariamente pelo GPT-4o. É grátis enviar aqui para melhorar seu SEO agora.",
-    "ai-navigate": "Lista de Ferramentas de IA",
-    "exploreMore": "Obtenha mais ferramentas de IA",
-    "checkDetail": "Ver Detalhe",
-    "search": "Pesquisar",
-    "result": "Resultado da pesquisa",
-    "empty": "Nenhum dado disponível"
-  },
-  "Category": {
-    "home": "Início",
-    "empty": "Nenhum dado disponível"
-  },
-  "Submit": {
-    "title": "Envie sua Ferramenta de IA",
-    "subTitle": "Envie sua Ferramenta de IA e Obtenha tráfego do Diretório de IA do Tap4",
-    "website": "Nome do Website",
-    "url": "URL do Website",
-    "submit": "Enviar",
-    "add": "Adicionar",
-    "text": "para a página inicial do seu site. Em seguida, você pode enviar seu site com sucesso gratuitamente!",
-    "networkError": "Erro de rede",
-    "success": "sucesso"
-  },
-  "Startup": {
-    "title": "Inicie o Lançamento da sua Startup",
-    "subTitle": "A Lista Definitiva de Sites para Lançar e Promover Sua Startup Online. Para adicionar à lista ou ajudar a enviar seu produto para a lista gratuita, por favor, envie um e-mail para nós: contact@tap4.ai.",
-    "updateTime": "Selecionado e atualizado diariamente. Última atualização:",
-    "table": {
-      "da": "DA",
-      "website": "Website",
-      "tags": "Tags",
-      "price": "Preço",
-      "submission": "Envio"
+      "1-h1": "Termos de Uso da Visão Geral das Ferramentas de IA Gen24",
+      "1-p": "Obrigado por usar a Visão Geral das Ferramentas de IA Gen24. Ao utilizar nossos serviços, você concorda com os termos listados abaixo, portanto, leia-os com atenção.",
+      "2-h2": "Conteúdo do serviço",
+      "2-p": "A Visão Geral das Ferramentas de IA Gen24 oferece um serviço de diretório de ferramentas de IA, ajudando os usuários a descobrir e utilizar diversas ferramentas de IA. Estamos constantemente aprimorando nossas ofertas e reservamos o direito de adicionar, modificar ou remover funcionalidades do serviço.",
+      "3-h2": "Condições de uso",
+      "3-p": "Ao usar a Visão Geral das Ferramentas de IA Gen24, você concorda em não:",
+      "3-li-1": "Usar o serviço de forma fraudulenta;",
+      "3-li-2": "Infringir a privacidade de outros usuários;",
+      "3-li-3": "Interferir no funcionamento adequado do serviço;",
+      "4-h2": "Direitos autorais",
+      "4-p": "O conteúdo fornecido neste serviço é protegido por leis de direitos autorais. Você não pode copiar, distribuir ou usar o conteúdo sem autorização prévia.",
+      "5-h2": "Limitação de responsabilidade",
+      "5-p": "A Visão Geral das Ferramentas de IA Gen24 não se responsabiliza por quaisquer danos resultantes do uso dos serviços. O serviço é fornecido 'como está' e sem garantias expressas ou implícitas.",
+      "6-h2": "Alterações nos Termos de Uso",
+      "6-p": "Podemos modificar estes Termos de Uso a qualquer momento. As mudanças serão publicadas nesta página e recomendamos que você reveja os Termos periodicamente. Continuar a utilizar o serviço após as modificações indica a sua aceitação dos novos termos.",
+      "7-h2": "Contato",
+      "7-p": "Se você tiver qualquer pergunta sobre estes Termos de Uso, por favor, entre em contato conosco através do email contact@Gen24.com."
     },
-    "detail": {
-      "visitWebsite": "Visite o Website",
-      "introduction": "Introdução"
-    }
-  },
-  "Explore": {
-    "title": "Descubra as Melhores Ferramentas de IA 2024",
-    "subTitle": "Obtenha suas ferramentas de IA favoritas no Diretório de Ferramentas de IA do Tap4. A lista de ferramentas de IA é atualizada diariamente pelo GPT-4o."
-  },
-  "Metadata": {
-    "home": {
-      "title": "Obtenha suas melhores Ferramentas de IA | Diretório de IA do Tap4",
-      "description": "O Diretório de IA do Tap4 é uma ferramenta que fornece um Diretório de Ferramentas de IA gratuito. Obtenha suas ferramentas de IA favoritas com o Diretório de IA do Tap4, o Diretório de IA do Tap4 visa reunir todas as ferramentas de IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório de IA do Tap4"
+    "Submit": {
+      "title": "Compartilhe Sua Ferramenta Inovadora de IA",
+      "subTitle": "Adicione sua ferramenta de IA à Visão Geral das Ferramentas de IA Gen24 e aumente o tráfego direcionado ao seu site.",
+      "website": "Nome do Site",
+      "url": "Link do seu site",
+      "submit": "Enviar agora",
+      "add": "Adicionar agora",
+      "text": "Submeta sua ferramenta de IA gratuitamente ao linkar a Visão Geral das Ferramentas de IA Gen24 na sua página inicial!",
+      "networkError": "Erro de conexão com a rede",
+      "success": "Enviado com sucesso"
     },
-    "ai": {
-      "titleSubfix": "Diretório de IA do Tap4"
+    "Startup": {
+      "title": "Inicie Sua Jornada de Startup",
+      "subTitle": "Descubra e promova seu site startup com as melhores orientações. Para ser listado ou sugerir um produto gratuitamente no catálogo, entre em contato através do email contact@Gen24.com.",
+      "updateTime": "Prometemos compilar e atualizar o conteúdo diariamente. Última atualização:",
+      "table": {
+        "da": "Autoridade do Domínio",
+        "website": "Nome do Site",
+        "tags": "Tags",
+        "price": "Preço",
+        "submission": "Método de Envio"
+      },
+      "detail": {
+        "visitWebsite": "Clique para Visitar",
+        "introduction": "Introdução ao Site"
+      }
     },
-    "explore": {
-      "title": "Melhores Ferramentas de IA Explore 2024 | Diretório de IA do Tap4",
-      "titlePrefix": "Explorar Diretório de IA do Tap4",
-      "titleSuffix": "Diretório de IA do Tap4",
-      "description": "O Diretório de IA do Tap4 é uma ferramenta que fornece um Diretório de Ferramentas de IA gratuito. Obtenha suas ferramentas de IA favoritas com o Diretório de IA do Tap4, o Diretório de IA do Tap4 visa reunir todas as ferramentas de IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório de IA do Tap4"
+    "Explore": {
+      "title": "Descubra as Ferramentas de IA mais Top de 2024",
+      "subTitle": "Encontre suas ferramentas de IA favoritas na Visão Geral das Ferramentas de IA Gen24. A lista de ferramentas de IA é atualizada diariamente por GPT-4o."
     },
-    "submit": {
-      "title": "Envie sua ferramenta de IA e obtenha Tráfego | Diretório de IA do Tap4"
+    "Metadata": {
+      "home": {
+        "title": "Descubra as Melhores Ferramentas de IA | Diretório de Ferramentas de IA Gen24",
+        "description": "Explorar e usar as melhores ferramentas de IA nunca foi tão fácil. O Diretório de Ferramentas de IA Gen24 oferece uma variedade de ferramentas de IA gratuitas, reunidas em um único lugar para proporcionar a melhor experiência ao usuário.",
+        "keywords": "Ferramentas de IA, Ferramentas de IA gratuitas, Tecnologia de IA, Diretório de Ferramentas de IA Gen24"
+      },
+      "ai": {
+        "titleSubfix": " | Coleção das Melhores Ferramentas Tecnológicas de IA"
+      },
+      "explore": {
+        "title": "Explorar as Ferramentas Selecionadas de IA de 2024 | Índice de IA Gen24",
+        "titlePrefix": "Explorar IA Gen24",
+        "titleSuffix": " | Coleção Profissional de Ferramentas de IA",
+        "description": "Explore e utilize as melhores tecnologias de IA de 2024. O Índice de IA Gen24 lista várias ferramentas de IA, oferecendo a melhor experiência de serviço e soluções tecnológicas de ponta.",
+        "keywords": "Ferramentas de IA, Exploração de Tecnologias de IA, Ferramentas de IA em 2024, Diretório de IA Gen24"
+      },
+      "submit": {
+        "title": "Compartilhe sua Inovação em IA e Seja Notado | Diretório de IA Gen24"
+      }
     }
   }
 }
