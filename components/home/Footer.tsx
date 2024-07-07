@@ -33,12 +33,8 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: t('tap4'),
-      href: 'https://www.tap4.ai',
-    },
-    {
-      title: t('tattoo'),
-      href: 'https://tattooai.design',
+      title: t('gen24'),
+      href: 'https://www.gen24ai.com',
     },
   ];
 
